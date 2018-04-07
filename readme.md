@@ -3,7 +3,8 @@
 Docker image to use Deployer (Deployment tool for PHP) without the need to have PHP on your host.
 
 See [Deployer.org](https://deployer.org/)
-On Github : [deployphp/deployer](https://github.com/deployphp/deployer)
+
+On GitHub : [deployphp/deployer](https://github.com/deployphp/deployer)
 
 ## How to use
 [See on Docker Hub](https://hub.docker.com/r/omouren/docker-deployer/)
