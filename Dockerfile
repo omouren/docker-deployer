@@ -1,7 +1,7 @@
 FROM php:cli-alpine
 MAINTAINER Olivier Mouren <mouren.olivier@gmail.com>
 
-RUN apk add --update openssh-client
+RUN apk add --update openssh-client rsync
 
 RUN mkdir /deployer
 
